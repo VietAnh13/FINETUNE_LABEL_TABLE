@@ -1,0 +1,11 @@
+{
+"table_CDKT_VA_type_1": "table_CDKT_VA_type_1", 
+"table_CDKT_VA_type_2": "table_CDKT_VA_type_2",
+"table_CDKT_VA_type_3": "table_CDKT_VA_type_3",
+"table_CDKT_VA_type_4": "table_CDKT_VA_type_4", 
+"table_CDKT_VA_type_5": "table_CDKT_VA_type_5",
+"table_CDKT_VA_type_6": "table_CDKT_VA_type_6",
+"table_CDKT_VA_type_7": "table_CDKT_VA_type_7", 
+"table_CDKT_VA_type_8": "table_CDKT_VA_type_8",
+"table_CDKT_VA_type_9": "table_CDKT_VA_type_9"
+}

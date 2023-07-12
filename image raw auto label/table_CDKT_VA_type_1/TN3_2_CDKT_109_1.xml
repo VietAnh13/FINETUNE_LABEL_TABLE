@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BCTC</folder>
+	<filename>TN3_2_CDKT_109_1.jpg</filename>
+	<path>D:\My Desktop\FINAL PROJECT\TABLE EXTRACTION\preprocess table\BCTC\TN3_2_CDKT_109_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2480</width>
+		<height>3509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>481</ymin>
+			<xmax>2324</xmax>
+			<ymax>2646</ymax>
+		</bndbox>
+	</object>
+</annotation>
